@@ -5,6 +5,8 @@
 build ice flux data into the aquisition function
 - Casey station skiway: Latitude: S-66.28822° E110.76919° (10 km from Casey)
 
+![figures/output.png](figures/output.png)
+
 ## Paper title: Uncertainty-guided explorations stratgies for the Antarctic Ice Sheet
 
 - related to active larning, environmental monitoring, eugenic search, 
