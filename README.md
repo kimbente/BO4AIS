@@ -4,6 +4,9 @@
 - around Casey station
 build ice flux data into the aquisition function
 - Casey station skiway: Latitude: S-66.28822° E110.76919° (10 km from Casey)
+- q-Acquisition Functions: joints versus not joint (point-wise)
+- bound: 
+- https://botorch.org/docs/batching
 
 ![figures/output.png](figures/output.png)
 
@@ -34,6 +37,10 @@ build ice flux data into the aquisition function
 ## Coordinates
 - Casey station in Polar Stereographic:
 
+## Region
+
+Increased region size to include full reach of aircraft
+
 # Environment
 
 Create a new environment named `bo4ais_env` with Python 3.10:
@@ -53,6 +60,7 @@ Next, use pip to install all required packages from the requirements.txt file, a
 Installation may take a few minutes.
 
 `pip install -r BO4AIS/requirements.txt`
+
 
 
 
